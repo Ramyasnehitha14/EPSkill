@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE student SYSTEM "student.dtd">
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<students>
+   <student sid="a">
+   <no> 190030971 </no>
+   <name> Ramya </name>
+   <email>190030971@kluniversity.in</email>
+   <marks> 90 </marks>
+   <class> cse-A </class>
+   </student>
+
+   <student sid="b">
+   <no> 190030001 </no>
+   <name> Snehitha </name>
+   <email>190030001@kluniversity.in</email>
+   <marks> 95 </marks>
+   <class> cse-B </class>
+   </student>
+   
+   <student sid="c">
+   <no> 190030002 </no>
+   <name> Aishu </name>
+   <email>190030002@kluniversity.in</email>
+   <marks> 93 </marks>
+   <class> cse-C </class>
+   </student>
+   
+   <student sid="d">
+   <no> 190030005 </no>
+   <name> James </name>
+   <email>190030005@kluniversity.in</email>
+   <marks> 78 </marks>
+   <class> ece-A </class>
+   </student>
+   
+   <student sid="e">
+   <no> 190030015 </no>
+   <name> John </name>
+   <email>190030015@kluniversity.in</email>
+   <marks> 89 </marks>
+   <class> ece-B </class>
+   </student>
+   
+</students>
