@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+<students>
+<regno>19003091</regno>
+<name>Ramya</name>
+<marks>95</marks>
+<mail>ramya@gmail.com</mail>
+</students>
+<students>
+<regno>190030001</regno>
+<name>snehitha</name>
+<marks>87</marks>
+<mail>snehitha@gmail.com</mail>
+</students>
+<students>
+<regno>190030002</regno>
+<name>Aishu</name>
+<marks>96</marks>
+<mail>aishu@gmail.com</mail>
+</students>
+</Students>
